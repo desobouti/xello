@@ -1,0 +1,67 @@
+/*
+	Developed by Desire Sobouti
+	desobouti.com | @desobouti
+*/
+
+/* BODY ---------------------------------------- */
+body {
+	overflow: auto;
+	background-image: url("../bg.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+/* HEADER -------------------------------------- */
+header {
+	text-align: center; 
+	padding: 30px;
+}
+
+/* MAIN CONTENT -------------------------------- */
+.row-vertical-line {
+	height: 300px;
+}
+
+.right-vertical-line {
+	border-right: 1px solid #333;
+}
+
+.left-vertical-line {
+	border-left: 1px solid #333;
+}
+
+.row-buttons {
+	padding: 30px;
+	border-top: 3px solid #333;
+	border-bottom: 3px solid #333;
+}
+
+.btn-custom {
+	font-size: 25px;
+	color: #333;
+	background-color: white;
+	border: 2px solid #333;
+}
+
+@media only screen and (max-width: 382px) {
+    button {
+        margin: 5px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .row-buttons {
+        margin: 0 5px;
+    }
+}
+
+/* FOOTER ------------------------------------- */
+footer {
+	padding: 20px;
+}
+
+.copyright {
+	text-align: center;
+	font-size: 20px;
+}
