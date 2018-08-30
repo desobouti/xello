@@ -1,5 +1,3 @@
-Xello
+Xello - Front End Engineering Test
 
-https://xello.world/en/
-
-Front End Engineering Test
+xello.world
