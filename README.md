@@ -1,3 +1,3 @@
-Xello Test-2018
+Xello test-2018
 
 https://xello.world
